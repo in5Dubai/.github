@@ -1,4 +1,4 @@
-# in5 Dubai Community (Un-Official) for OSS & Founders Collaboration. JOIN!
+# in5 Dubai Community (Un-Official) for OSS & Founders Collaboration. JOIN this GitHub Orgs through PR!
 
 ![in5_dubai](https://github.com/user-attachments/assets/342180ce-4991-4812-8334-24ce6042971c)
 
@@ -18,7 +18,11 @@ Below is a detailed survey of the In5 Dubai startup ecosystem, focusing on the f
 #### Overview of In5 Dubai and Its Ecosystem
 In5 Dubai, launched by TECOM Group, is a pivotal platform for fostering entrepreneurship and innovation, particularly within Dubai’s dynamic startup ecosystem. Since its inception in 2013, it has supported over 850 start-ups, with a focus on technology, media, design, and science. The incubator provides creative spaces, mentorship, and access to investors, facilitating the growth of new ventures. Research suggests that start-ups within In5 have raised approximately AED 8 billion in funding, with a notable 25% growth in 2023, reaching AED 3 billion that year, as reported in a press release from February 2024 ([in5 start-ups note 25% funding growth in 2023](https://www.dubaiholding.com/en/media-hub/press-releases/in5-start-ups-note-25-funding-growth-in-2023-as-dubai-continues-to-nurture-homegrown-innovation)). This funding milestone reflects In5’s role in facilitating investor engagement and partnerships, crucial for startup scalability.
 
-#### Detailed List of Start-up Founders
+#### in5 Dubai Detailed List of Start-up Founders
+
+![FD3C4E45-9516-4C11-B7C6-4D87CF354844](https://github.com/user-attachments/assets/67bb40b0-ccfb-48f4-ab2c-44453a731db5)
+
+
 The evidence leans toward identifying several start-ups and their founders, based on press releases, company profiles, and news articles. Below is a table of notable start-ups from In5 Dubai and their founders, where available:
 
 | **Start-up Name** | **Founders**                     | **Industry**                     | **Notable Achievements**                                                                 |
