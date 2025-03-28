@@ -71,3 +71,81 @@ This survey provides a detailed snapshot of In5 Dubai’s ecosystem, emphasizing
 - [in5 Fashion Lab official page](https://infive.ae/product/in5-design-fashion-lab/)
 - [in5 launches in5 Fashion Lab Middle East Architect](https://www.middleeastarchitect.com/projects/44617-in5-launches-in5-fashion-lab)
 - [Gitex Global: Start-ups at In5 in Dubai Internet City raise Dh3 billion](https://www.khaleejtimes.com/business/start-ups/gitex-global-start-ups-at-in5-in-dubai-internet-city-raise-dh3-billion)
+
+
+Here’s a detailed breakdown of key individuals associated with **in5 Dubai**, including leadership, mentors, startup founders, and ecosystem partners, based on the provided search results:
+
+---
+
+### **Leadership & Strategic Figures**  
+1. **Majed Al Suwaidi**  
+   - **Role**: Senior Vice President at TECOM Group (parent company of in5).  
+   - **Contributions**: Oversees in5’s alignment with Dubai’s economic agendas (e.g., D33, Road to Net Zero). Advocates for startups as drivers of sustainable growth and Dubai’s innovation ecosystem .  
+   - **Key Quote**: *“Start-ups are powerful engines of long-term economic growth that tangibly benefits future generations”* .  
+
+2. **Saeed Alnofeli**  
+   - **Role**: Vice President of in5 Dubai.  
+   - **Contributions**: Promotes AI adoption and entrepreneurship, emphasizing Dubai’s pro-innovation frameworks .  
+
+3. **Ammar Al Malik**  
+   - **Role**: Managing Director of Dubai Internet City (TECOM Group).  
+   - **Contributions**: Instrumental in expanding in5 Tech’s infrastructure and fostering tech innovation .  
+
+4. **Huda Buhumaid**  
+   - **Role**: Chief Impact Officer at Dubai Holding.  
+   - **Contributions**: Partners with in5 for the *Innovate for Tomorrow Challenge*, focusing on sustainability solutions and pilot programs .  
+
+---
+
+### **Key Mentors & Investors**  
+1. **Amit Grover**  
+   - **Role**: Managing Partner at a venture firm; member of in5’s Steering Committee.  
+   - **Contributions**: Advises startups on scaling and investment strategies .  
+
+2. **Steering Committee**  
+   - A group of **20+ industry experts** guiding startups across tech, media, design, and science sectors .  
+
+---
+
+### **Notable Startup Founders & Innovators**  
+1. **Hosam Arab**  
+   - **Startup**: Tabby (fintech, buy-now-pay-later platform).  
+   - **Achievement**: Led Tabby to unicorn status (>$1B valuation) .  
+
+2. **Eddy Maroun**  
+   - **Startup**: Anghami (music streaming platform).  
+   - **Achievement**: Established MENA’s leading audio streaming service .  
+
+3. **Chris Darnell & Rene Morgan**  
+   - **Startup**: Hayi (hyperlocal social network for neighborhoods).  
+   - **Key Innovation**: Geo-fencing technology to connect verified residents and community managers .  
+
+4. **Detectiome Team**  
+   - **Startup**: Detectiome (healthtech).  
+   - **Innovation**: Developed “Revonco,” an AI-powered multicancer early detection test tailored for Middle Eastern populations .  
+
+5. **Unnamed Founders**  
+   - **Ziina** (fintech): Raised AED 80.8M in Series A funding (2024) .  
+   - **Podeo** (podcast platform): Secured AED 19.8M in Series A funding (2024) .  
+   - **Derq** (AI transportation safety): Won AED 2.7M from the US Department of Transportation (2025) .  
+
+---
+
+### **Ecosystem Partners & Collaborators**  
+1. **Dubai Science Park**  
+   - Collaborates with in5 Science to incubate 35+ science-focused startups, including Neurazon Tech (neurodegenerative disease diagnostics) .  
+
+2. **Global Investors**  
+   - in5 Investor Hub connects startups with **angel investors, VCs, and institutional funds** (e.g., participation at Expand North Star and Step Conference) .  
+
+3. **International Startups**  
+   - Hosted startups from **Luxembourg, Poland, France, and Slovenia** under cross-border innovation agreements .  
+
+---
+
+### **How to Access More Information**  
+- **Leadership & Team**: Explore [in5’s LinkedIn page](https://www.linkedin.com/company/in5dubai/) for updates on team members and events.  
+- **Startup Founders**: Review event participation lists (e.g., Step Conference 2024, Expand North Star) for showcased startups like Grambell (AI communications) and Estaie (travel tech) .  
+- **Mentorship Programs**: Engage with in5’s *Innovate for Tomorrow Challenge* or Investor Hub workshops for direct access to mentors .  
+
+For specific founder or team details not listed here, consider reaching out to in5 directly via their website or attending their networking events. Let me know if you need further assistance! 🌟
